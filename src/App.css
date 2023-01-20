@@ -1,0 +1,16 @@
+.app {
+  width: 80%;
+}
+h1,
+h3 {
+  text-align: center;
+}
+button {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  background: linear-gradient(0deg, #ffcc00, #b77a1e);
+  border: none;
+  padding: 0.5rem 1rem;
+  color: white;
+}
